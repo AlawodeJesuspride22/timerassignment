@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f3f3f3;
+}
+
+.container{
+    margin-top: 50px;
+}
+
+
+h1 {
+    font-size: 24px;
+}
+
+
+.timer-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+
+.timer-box {
+    background-color: #3498db;
+    color: white;
+    border-radius: 5px;
+    margin: 0 10 px;
+    padding: 20px;
+    font-size: 20px;
+    width: 100px;
+    height: 100px;
+}
+
+
+.label {
+    display: block;
+    font-size: 14px;
+}
